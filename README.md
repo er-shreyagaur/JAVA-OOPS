@@ -39,10 +39,9 @@ JAVA-OOPS
 │ ├── compile_time_polymorphism
 │ └── runtime_polymorphism
 │
-└── inheritance (to be added)
+└── inheritance 
 
-yaml
-Copy code
+
 
 ---
 

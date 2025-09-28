@@ -46,4 +46,4 @@ JAVA-OOPS
 ---
 
 ## 🚀 Purpose
-This repository serves as a **learning kit** for understanding OOPs concepts in J
+This repository serves as a **learning kit** for understanding OOPs concepts in Java with simple, structured examples.

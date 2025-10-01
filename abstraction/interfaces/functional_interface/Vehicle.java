@@ -1,12 +1,14 @@
 package interfaces.functional_interface;
 
-public class Vehicle implements Runnable {
-	Vehicle(){
-		
-	}
+@FunctionalInterface
+interface Driveable{
+	void drive();
+}
+
+public class Vehicle implements Driveable {
 	@Override
-	public void run() {
-		System.out.println("Run method starts");
+	public void drive() {
+		System.out.println("Vehicle is being driven");
 	}
 	
 }
